@@ -209,7 +209,7 @@ Error generating stack: `+l.message+`
   &:hover {
     opacity: 0.7;
   }
-`;function Or({grey:i}){return tt.jsxs(tt.Fragment,{children:[" ",i?tt.jsx(Vg,{placeholder:"Digite seu E-mail ou Cpf"}):tt.jsx(wg,{placeholder:"Digite sua senha"})]})}const Kg=Yt.div`
+`;function Or({grey:i}){return tt.jsxs(tt.Fragment,{children:[" ",i?tt.jsx(Vg,{placeholder:"Digite seu E-mail ou Cpf"}):tt.jsx(wg,{type:"password",placeholder:"Digite sua senha"})]})}const Kg=Yt.div`
   img {
     width: 7%;
     margin: 25px 0 18px 30px;
