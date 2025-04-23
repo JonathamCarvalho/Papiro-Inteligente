@@ -7,7 +7,7 @@ function GlobalInput({ grey }) {
       {grey ? (
         <InputTop placeholder="Digite seu E-mail ou Cpf" />
       ) : (
-        <Input placeholder="Digite sua senha" />
+        <Input type="password" placeholder="Digite sua senha" />
       )}
     </>
   );
