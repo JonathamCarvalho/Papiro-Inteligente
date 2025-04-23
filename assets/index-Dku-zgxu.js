@@ -283,4 +283,4 @@ Error generating stack: `+l.message+`
 body{
   background: #424242;
 }
-`;Dy.createRoot(document.getElementById("root")).render(tt.jsx(L.StrictMode,{children:tt.jsxs(Cm,{children:[tt.jsx(lp,{}),tt.jsx(ap,{})]})}));
+`;Dy.createRoot(document.getElementById("root")).render(tt.jsx(L.StrictMode,{children:tt.jsxs(Cm,{basename:"/Papiro-Inteligente",children:[tt.jsx(lp,{}),tt.jsx(ap,{})]})}));
